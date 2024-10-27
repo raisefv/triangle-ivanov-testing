@@ -1,0 +1,21 @@
+﻿<Window x:Class="Triangle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Triangle"
+        mc:Ignorable="d"
+        Title="Ivanov Pididi" MinHeight="450" MinWidth="700" Width="700" Height="450" Background="Bisque" ResizeMode="NoResize">
+    <Grid Width="700" Height="450">
+        <Label Content="Введите длины сторон треугольника" Margin="125,100,125,260" FontSize="25px" Foreground="HotPink" Name="t"/>
+
+        <TextBox Margin="470,205,30,175" Width="200" Height="50" FontSize="30" Visibility="Visible" Name="n3"/>
+        <TextBox Margin="240,205,260,175" Width="200" Height="50" FontSize="30" Visibility="Visible" Name="n2"/>
+        <TextBox Margin="10,205,490,175" Width="200" Height="50" FontSize="30" Visibility="Visible" Name="n1"/>
+        <Button Margin="240,305,265,95" Background="HotPink" FontSize="25px" Height="50px" Width="200px" Name="proverka" Click="proverka_Click" Visibility="Visible">Проверить</Button>
+        <Button Margin="240,305,265,95" Background="HotPink" FontSize="25px" Height="50px" Width="200px" Name="again" Click="again_Click" Visibility="Hidden">Начать снова</Button>
+        <Label Content="Сторона A" HorizontalAlignment="Left" Margin="68,180,0,0" VerticalAlignment="Top" Width="85" FontSize="15" Foreground="HotPink" Name="s1" Visibility="Visible"/>
+        <Label Content="Сторона B" HorizontalAlignment="Left" Margin="298,180,0,0" VerticalAlignment="Top" Width="85" FontSize="15" Foreground="HotPink" Name="s2" Visibility="Visible"/>
+        <Label Content="Сторона C" HorizontalAlignment="Left" Margin="534,180,0,0" VerticalAlignment="Top"  Width="85" FontSize="15" Foreground="HotPink" Name="s3" Visibility="Visible"/>
+    </Grid>
+</Window>

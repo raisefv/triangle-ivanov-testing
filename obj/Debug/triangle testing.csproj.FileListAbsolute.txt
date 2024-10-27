@@ -1,0 +1,15 @@
+C:\Cs pj\triangle testing\bin\Debug\triangle testing.exe.config
+C:\Cs pj\triangle testing\bin\Debug\triangle testing.exe
+C:\Cs pj\triangle testing\bin\Debug\triangle testing.pdb
+C:\Cs pj\triangle testing\obj\Debug\triangle testing.csproj.AssemblyReference.cache
+C:\Cs pj\triangle testing\obj\Debug\MainWindow.g.cs
+C:\Cs pj\triangle testing\obj\Debug\App.g.cs
+C:\Cs pj\triangle testing\obj\Debug\triangle testing_MarkupCompile.cache
+C:\Cs pj\triangle testing\obj\Debug\triangle testing_MarkupCompile.lref
+C:\Cs pj\triangle testing\obj\Debug\MainWindow.baml
+C:\Cs pj\triangle testing\obj\Debug\triangle testing.g.resources
+C:\Cs pj\triangle testing\obj\Debug\triangle_testing.Properties.Resources.resources
+C:\Cs pj\triangle testing\obj\Debug\triangle testing.csproj.GenerateResource.cache
+C:\Cs pj\triangle testing\obj\Debug\triangle testing.csproj.CoreCompileInputs.cache
+C:\Cs pj\triangle testing\obj\Debug\triangle testing.exe
+C:\Cs pj\triangle testing\obj\Debug\triangle testing.pdb
